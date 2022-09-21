@@ -2,7 +2,10 @@
 <h1 align="center">Ds Meta</h1>
 <p align="center">Projeto realizado durante a Semana DevSuperior 10</p>
 
+<p align="center"><img src="https://pauloviniciusmeta.netlify.app/assets/logo.d7350d45.svg"/></p>
+  
 <p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
