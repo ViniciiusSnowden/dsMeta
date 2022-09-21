@@ -23,7 +23,7 @@
 
 
 # 📖 Sobre
-O DS Meta tem por objetivo consultar a maiores vendas e enviar um alerta via SMS como notificação.
+O DS Meta tem por objetivo consultar as maiores vendas e enviar um alerta via SMS como notificação.
 
 
 <h1>🛠 Tecnologias</h1>
